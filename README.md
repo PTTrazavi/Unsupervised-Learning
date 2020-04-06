@@ -14,6 +14,13 @@
 此範例用autoencoder(一種self-supervised learning)，做MNIST的分群。  
 ![image4](images/04.jpg)  
 
+### 5 mnist multi-input.ipynb
+此範例用shared layer技術，同時輸入兩張圖，判斷是否為同類別。  
+![image5](images/05.jpg)  
+
+### 6 BBC news multi-input.ipynb
+此範例用shared layer技術，同時輸入兩篇文章，判斷是否為同類別。  
+
 ### TF-IDF
 代表文章特徵的一種方法。  
 ![image1](images/01.jpg)  
@@ -28,3 +35,4 @@ https://www.kaggle.com/sameersmahajan/people-wikipedia-data
 https://github.com/aspamers/autoencoder  
 https://blog.keras.io/building-autoencoders-in-keras.html  
 https://machinelearningmastery.com/lstm-autoencoders/  
+https://keras.io/getting-started/functional-api-guide  
